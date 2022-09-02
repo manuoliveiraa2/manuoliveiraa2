@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello hello, welcome to my profile! 🥰
+my name is Manuele and i am currently an academic in the technical course of informatics. I fell headlong into the technology business and now I'm a programming lover. 💖
 
 <!--
 **manuoliveiraa2/manuoliveiraa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
